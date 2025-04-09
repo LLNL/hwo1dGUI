@@ -1,4 +1,4 @@
-# Copyright 2025 Lawrence Livermore National Security, LLC and other hwo1dGUI Project Developers. See the top-level COPYRIGHT file for details.
+# Copyright 2025 Lawrence Livermore National Security, LLC and other hwo1dGUI Project Developers. See the top-level LICENCE file for details.
 #
 # SPDX-License-Identifier: MIT
 
