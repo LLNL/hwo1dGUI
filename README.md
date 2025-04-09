@@ -6,6 +6,8 @@ hwo1dGUI is distributed under the terms of the MIT license. All new contribution
 
 See Link to license and NOTICE for details.
 
+GUI in a web browser: https://mybinder.org/v2/gh/LLNL/hwo1dGUI/HEAD?urlpath=%2Fdoc%2Ftree%2FHWO_1D_GUI.ipynb
+
 SPDX-License-Identifier: MIT
 
 LLNL-CODE-2004460
